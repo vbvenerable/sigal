@@ -5,7 +5,7 @@
 # Gallery title. Can be set here or as the '--title' option of the `sigal
 # build` command, or in the 'index.md' file of the source directory.
 # The priority order is: cli option > settings file > index.md file
-# title = "Sigal test gallery"
+# title = "Erotic Emporium"
 
 # ---------------------
 # General configuration
@@ -13,7 +13,7 @@
 
 # Source directory. Can be set here or as the first argument of the `sigal
 # build` command
-source = "pictures"
+source = "/content/ComfyUI/output"
 
 # Destination directory. Can be set here or as the second argument of the
 # `sigal build` command (default: '_build')
